@@ -1,0 +1,11 @@
+customer_id,firstname,lastname,age,city,signup_date
+1,Abhishek,Shrivastav,24.0,Indore,2022-01-01
+2,John,Wick,30.0,New York,2021-05-15
+3,Smith,Wayne,35.0,Gotham,2020-07-20
+4,David,Banner,40.0,,2019-11-30
+5,Sam,Stark,28.0,Gotham,2021-03-25
+6,Rocky,Wayne,33.0,New York,2020-12-10
+7,Tony,Rogers,,Los Angeles,2022-02-14
+8,Stark,,31.0,New York,2018-09-05
+9,Bruce,Wayne,38.0,Gotham,2019-06-18
+10,Wayne,Banner,45.0,New York,2021-08-22
